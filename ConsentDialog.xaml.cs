@@ -2,6 +2,9 @@ using System.Windows;
 
 namespace RemoteAdminClientUI
 {
+    /// <summary>
+    /// Interaction logic for ConsentDialog.xaml
+    /// </summary>
     public partial class ConsentDialog : Window
     {
         public ConsentDialog(string operatorName, string sessionId)

@@ -1,5 +1,6 @@
 ﻿<Window x:Class="RemoteAdminClientUI.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Client Admin App" Height="350" Width="500">
 
     <Grid Margin="20">
